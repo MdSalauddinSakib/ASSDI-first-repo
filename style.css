@@ -1,3 +1,9 @@
 body{
     background: azure;
 }
+
+h1{
+    color: green;
+    background: #fff;
+    text-align: center;
+}
